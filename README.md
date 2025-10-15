@@ -1,3 +1,5 @@
+Update a .env file with a TWILIO_ACCOUNT_SID and TWILIO_AUTH_TOKEN value see .env-example
+
 Ensure Domain is verified in the console. The domain for this build will expire in 10/14/26.
 
 Ensure configuration of Messaging Service is created with a verified number added to the sender pool. 
